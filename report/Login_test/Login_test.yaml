@@ -1,0 +1,20 @@
+
+"1": 
+  :project: Login_test
+  :testclass: Login_test
+  :testcase: test_Login_test
+  :status: Fail
+  :errMes: |-
+    Assert string error, expect is x460834779, but actual is x460834779@126.com
+    Run : Login_test.rb => Login_test => test_Login_test fail
+    E:/AutomationFramework/lib/Assertion.rb:8:in `assert_string'
+    Login_test.rb:19:in `test_Login_test'
+    E:/AutomationFramework/lib/ScriptMain.rb:60:in `block (3 levels) in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:43:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:43:in `grep'
+    E:/AutomationFramework/lib/ScriptMain.rb:43:in `block (2 levels) in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:41:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:41:in `block in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:38:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:38:in `run'
+    E:/AutomationFramework/lib/ScriptMain.rb:94:in `block in <top (required)>'

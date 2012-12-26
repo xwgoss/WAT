@@ -1,0 +1,79 @@
+
+"1": 
+  :project: Auto_test1
+  :testclass: Auto_test1
+  :testcase: test_Auto_test1
+  :status: Fail
+  :errMes: |-
+    Run : Auto_test1.rb => Auto_test1 => test_Auto_test1 fail
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:66:in `assert_exists'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:135:in `document'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/locator.rb:31:in `document'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/locator.rb:136:in `each_element'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/locator.rb:21:in `block in each'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/locator.rb:20:in `each'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/locator.rb:20:in `each'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/locator.rb:147:in `locate'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:33:in `locate'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:63:in `assert_exists'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:414:in `perform_action'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:269:in `click!'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:211:in `click'
+    E:/AutomationFramework/util/Util.rb:40:in `space_check'
+    E:/AutomationFramework/util/Util.rb:70:in `shopping'
+    Auto_test1.rb:17:in `test_Auto_test1'
+    E:/AutomationFramework/lib/ScriptMain.rb:65:in `block (3 levels) in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:47:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:47:in `grep'
+    E:/AutomationFramework/lib/ScriptMain.rb:47:in `block (2 levels) in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:45:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:45:in `block in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:42:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:42:in `run'
+    E:/AutomationFramework/lib/ScriptMain.rb:100:in `block in <top (required)>'
+
+"2": 
+  :project: Auto_test1
+  :testclass: Auto_test1
+  :testcase: test_Auto_test2
+  :status: Fail
+  :errMes: |-
+    Run : Auto_test1.rb => Auto_test1 => test_Auto_test2 fail
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:66:in `assert_exists'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:414:in `perform_action'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:269:in `click!'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:211:in `click'
+    E:/AutomationFramework/util/Util.rb:72:in `shopping'
+    Auto_test1.rb:34:in `test_Auto_test2'
+    E:/AutomationFramework/lib/ScriptMain.rb:65:in `block (3 levels) in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:47:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:47:in `grep'
+    E:/AutomationFramework/lib/ScriptMain.rb:47:in `block (2 levels) in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:45:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:45:in `block in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:42:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:42:in `run'
+    E:/AutomationFramework/lib/ScriptMain.rb:100:in `block in <top (required)>'
+
+"3": 
+  :project: Auto_test1
+  :testclass: Auto_test1
+  :testcase: test_Auto_test3
+  :status: Fail
+  :errMes: |-
+    Run : Auto_test1.rb => Auto_test1 => test_Auto_test3 fail
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:66:in `assert_exists'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:414:in `perform_action'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:269:in `click!'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/element.rb:211:in `click'
+    E:/AutomationFramework/util/Util.rb:72:in `shopping'
+    Auto_test1.rb:51:in `test_Auto_test3'
+    E:/AutomationFramework/lib/ScriptMain.rb:65:in `block (3 levels) in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:47:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:47:in `grep'
+    E:/AutomationFramework/lib/ScriptMain.rb:47:in `block (2 levels) in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:45:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:45:in `block in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:42:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:42:in `run'
+    E:/AutomationFramework/lib/ScriptMain.rb:100:in `block in <top (required)>'

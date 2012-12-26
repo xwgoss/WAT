@@ -1,0 +1,4 @@
+input_name: text_field(:id,"idInput")
+input_pwd: text_field(:id,"pwdInput")
+button: button(:id,"loginBtn")
+span: span(:id,"welcomeTrueName")

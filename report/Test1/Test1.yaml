@@ -1,0 +1,41 @@
+
+"1": 
+  :project: Test1
+  :testclass: Test1
+  :testcase: test_a_1
+  :status: Pass
+  :errMes: |-
+    Assert string pass:3
+    Run : Test1.rb => Test1 => test_a_1 pass
+
+"2": 
+  :project: Test1
+  :testclass: Test1
+  :testcase: test_a_2
+  :status: Pass
+  :errMes: |-
+    Assert string pass:3
+    Assert string pass:3
+    Run : Test1.rb => Test1 => test_a_2 pass
+
+"3": 
+  :project: Test1
+  :testclass: Test1
+  :testcase: test_a_2
+  :status: Fail
+  :errMes: |-
+    Assert string pass:3
+    Assert string pass:3
+    Assert string error, expect is 4, but actual is 3
+    Run : Test1.rb => Test1 => test_a_2 fail
+    E:/AutomationFramework/lib/Assertion.rb:8:in `assert_string'
+    Test1.rb:39:in `test_a_2'
+    E:/AutomationFramework/lib/ScriptMain.rb:60:in `block (3 levels) in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:43:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:43:in `grep'
+    E:/AutomationFramework/lib/ScriptMain.rb:43:in `block (2 levels) in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:41:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:41:in `block in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:38:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:38:in `run'
+    E:/AutomationFramework/lib/ScriptMain.rb:94:in `block in <top (required)>'

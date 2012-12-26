@@ -1,0 +1,8 @@
+--- 
+elementName: 
+
+username: text_field(:id,"loginname")
+password: text_field(:id,"loginpwd")
+
+button: button(:id,"loginsubmit")
+label: label(:id,"loginname_error")

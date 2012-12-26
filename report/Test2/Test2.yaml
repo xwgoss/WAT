@@ -1,0 +1,17 @@
+
+"1": 
+  :project: Test2
+  :testclass: ""
+  :testcase: ""
+  :status: Fail
+  :errMes: |-
+    Get Object failed from E:/AutomationFramework/testcase/Test2/Test2.yaml
+    E:/AutomationFramework/lib/UIObject.rb:44:in `block (2 levels) in integrateElement'
+    E:/AutomationFramework/lib/UIObject.rb:37:in `each'
+    E:/AutomationFramework/lib/UIObject.rb:37:in `block in integrateElement'
+    E:/AutomationFramework/lib/UIObject.rb:16:in `each'
+    E:/AutomationFramework/lib/UIObject.rb:16:in `integrateElement'
+    E:/AutomationFramework/lib/InitialClass.rb:215:in `getObject'
+    E:/AutomationFramework/lib/InitialClass.rb:160:in `getCommObject'
+    E:/AutomationFramework/lib/ScriptMain.rb:21:in `run'
+    E:/AutomationFramework/lib/ScriptMain.rb:95:in `block in <top (required)>'

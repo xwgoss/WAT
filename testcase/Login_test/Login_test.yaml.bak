@@ -1,0 +1,3 @@
+input_name: text_field(:id,"iptUser")
+input_pwd: text_field(:id,"iptPwd")
+button: button(:class,"btn bg")

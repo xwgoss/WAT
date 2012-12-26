@@ -1,0 +1,5 @@
+input_name: text_field(:id,"username")
+input_pwd: text_field(:id,"password")
+button: link(:class,"ÎÒ°®Äã")
+
+

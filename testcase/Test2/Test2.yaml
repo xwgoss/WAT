@@ -1,0 +1,6 @@
+frame1: 
+  name: wordplace
+  type: frame
+span1:
+  type:span
+  parent:frame1

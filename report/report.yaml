@@ -1,0 +1,29 @@
+--- 
+"1": 
+  :project: Specproduct_manager
+  :testclass: Specproduct_manager
+  :testcase: test_Login
+  :status: Pass
+  :errMes: "Run : Specproduct_manager.rb => Specproduct_manager => test_Login pass"
+--- 
+"2": 
+  :project: test4
+  :testclass: Test4
+  :testcase: test_a_1
+  :status: Fail
+  :errMes: |-
+    TestData: inputValue22 is not exist
+    Run : test4.rb => Test4 => test_a_1 fail
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/input_elements.rb:363:in `limit_to_maxlength'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/input_elements.rb:336:in `type_by_character'
+    E:/AutomationFramework/Ruby/Ruby/lib/ruby/gems/1.9.1/gems/watir-classic-3.0.0/lib/watir-classic/input_elements.rb:299:in `set'
+    test4.rb:13:in `test_a_1'
+    E:/AutomationFramework/lib/ScriptMain.rb:65:in `block (3 levels) in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:47:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:47:in `grep'
+    E:/AutomationFramework/lib/ScriptMain.rb:47:in `block (2 levels) in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:45:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:45:in `block in run'
+    E:/AutomationFramework/lib/ScriptMain.rb:42:in `each'
+    E:/AutomationFramework/lib/ScriptMain.rb:42:in `run'
+    E:/AutomationFramework/lib/ScriptMain.rb:100:in `block in <top (required)>'

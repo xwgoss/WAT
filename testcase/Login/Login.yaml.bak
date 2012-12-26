@@ -1,0 +1,5 @@
+input_name: text_field(:id,"username")
+input_pwd: text_field(:id,"password")
+button: button(:class,"W_btn_d")
+span:div(:class,"").span(:index,1)
+

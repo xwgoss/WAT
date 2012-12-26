@@ -1,0 +1,3 @@
+login_name: text_field(:id,"username")
+login_pwd: text_field(:id,"password")
+login_button: link(:onclick,"checklogin()")

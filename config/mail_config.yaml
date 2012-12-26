@@ -1,0 +1,7 @@
+server: "smtp.163.com"
+port: 25
+main: 163.com
+account: "fendou__110@163.com"
+pwd: "xw02121835"
+to_address: "xiaowei@coo8.com"
+from_address: "fendou__110@163.com"

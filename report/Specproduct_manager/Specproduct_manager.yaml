@@ -1,0 +1,7 @@
+
+"1": 
+  :project: Specproduct_manager
+  :testclass: Specproduct_manager
+  :testcase: test_Login
+  :status: Pass
+  :errMes: "Run : Specproduct_manager.rb => Specproduct_manager => test_Login pass"

@@ -1,0 +1,2 @@
+cd /d "D:\Ruby workspace\webdriver_framework2\testcase\Test1"
+ruby Test1.rb

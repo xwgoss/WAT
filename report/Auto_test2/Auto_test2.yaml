@@ -1,0 +1,19 @@
+
+"1": 
+  :project: Auto_test2
+  :testclass: Auto_test2
+  :testcase: test_Auto_test2
+  :status: Fail
+  :errMes: "Assert array error, expect is \xBB\xF5\xB5\xBD\xB8\xB6\xBF\xEE\xCF\xD6\xBD\xF0,40.00, but actual is \xBB\xF5\xB5\xBD\xB8\xB6\xBF\xEE\xCF\xD6\xBD\xF0,30.00\n\
+    Run : Auto_test2.rb => Auto_test2 => test_Auto_test2 fail\n\
+    E:/AutomationFramework/lib/Assertion.rb:16:in `assert_array'\n\
+    Auto_test2.rb:42:in `test_Auto_test2'\n\
+    E:/AutomationFramework/lib/ScriptMain.rb:60:in `block (3 levels) in run'\n\
+    E:/AutomationFramework/lib/ScriptMain.rb:43:in `each'\n\
+    E:/AutomationFramework/lib/ScriptMain.rb:43:in `grep'\n\
+    E:/AutomationFramework/lib/ScriptMain.rb:43:in `block (2 levels) in run'\n\
+    E:/AutomationFramework/lib/ScriptMain.rb:41:in `each'\n\
+    E:/AutomationFramework/lib/ScriptMain.rb:41:in `block in run'\n\
+    E:/AutomationFramework/lib/ScriptMain.rb:38:in `each'\n\
+    E:/AutomationFramework/lib/ScriptMain.rb:38:in `run'\n\
+    E:/AutomationFramework/lib/ScriptMain.rb:94:in `block in <top (required)>'"

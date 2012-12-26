@@ -1,0 +1,20 @@
+login_name: text_field(:id,"username")
+login_pwd: text_field(:id,"password")
+
+login_div:
+  class: LogIcon
+  type: div
+
+login_button:
+  index: 0
+  type: link
+  parent: login_div
+
+logistics_link:
+  text: 配送区域物流管理
+  type: link
+  parent: manage_frame 
+
+manage_frame:
+  name: childframe
+  type: frame

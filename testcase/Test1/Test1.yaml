@@ -1,0 +1,15 @@
+testdiv:
+  id: testid
+  index: 3
+  type: div
+  parent: testframe  
+  
+  
+testframe:
+  type: frame
+  name: testclass  
+  class: testclass
+  index: 4
+  
+input: text_field(:id,"kw")
+button: button(:id,"su")

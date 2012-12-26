@@ -1,0 +1,8 @@
+
+"1": 
+  :project: Buy360login
+  :testclass: Buy360login
+  :testcase: test_1_NoUsernameNoPassword
+  :status: Pass
+  :errMes: "Assert string pass:\xC7\xEB\xCA\xE4\xC8\xEB\xD3\xC3\xBB\xA7\xC3\xFB/\xD3\xCA\xCF\xE4/\xD2\xD1\xD1\xE9\xD6\xA4\xCA\xD6\xBB\xFA\n\
+    Run : Buy360login.rb => Buy360login => test_1_NoUsernameNoPassword pass"

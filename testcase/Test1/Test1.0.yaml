@@ -1,0 +1,14 @@
+testdiv:
+  id: testid
+  index: 3
+  type: div
+  parent: testframe  
+  
+  
+testframe:
+  type: frame
+  name: testclass  
+  class: testclass
+  index: 4
+  
+testframe1: div(:id,"456")
